@@ -1,0 +1,5 @@
+treassure link:  https://repl.it/@bugs2106/treasure-island-start#main.py
+love calculator: https://repl.it/@bugs2106/day-3-5-exercise-Love-Calculator#main.py
+rollercoaster ticket: https://repl.it/@bugs2106/day-3-rollercoaster#main.py
+leap year: https://repl.it/@bugs2106/day-3-3-exercise-Leap-Year#main.py
+pizza: https://repl.it/@bugs2106/day-3-4-exercise#main.py
